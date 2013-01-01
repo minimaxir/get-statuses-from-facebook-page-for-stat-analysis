@@ -6,7 +6,7 @@ An example output with 2425 statuses from the TechCrunch page from 12/31/12, bot
 
 ## Output Data
 
-- Link Title: If the post is a Link post, this is the title of the link in the status. [Clicking the cell will take you to the post itself
+- Link Title: If the post is a Link post, this is the title of the link in the status. [Clicking the cell will take you to the post itself]
 - Message: The status message. [Clicking the cell will take you to the post itself]
 - Time Posted (PST): The time the message was posted, in PST.
 - # Likes: The number of likes for the status.
