@@ -1,7 +1,7 @@
 library(rjson)
 
-username <- "techcrunch"
-access_token <- "AAACEdEose0cBAA044RL7n6encSxmTJ4flrSUzeXbF40G3CNOm6UmMMU4NZCQwOwIKWoZCmVdiw1fhOmW6J73ZAl3eTPSj1eeEZBAQZCWk2QZDZD"
+username <- "PAGE NAME HERE"
+access_token <- "ACCESS TOKEN HERE"
 
 count <- 1
 iterations <- 100
